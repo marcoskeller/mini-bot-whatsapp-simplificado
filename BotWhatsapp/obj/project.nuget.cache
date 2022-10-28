@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zL5WDK3luKc6K7WnylogA2EtD1SdSGvAsWEAVaQw4JY93w1uCrYdXCvtIvX7EKXw0eBfNIycgzE+ehMMNG0ciA==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\projetos\\BotWhatsapp\\BotWhatsapp\\BotWhatsapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SQUADRA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\SQUADRA\\.nuget\\packages\\selenium.webdriver\\4.5.1\\selenium.webdriver.4.5.1.nupkg.sha512",
+    "C:\\Users\\SQUADRA\\.nuget\\packages\\selenium.webdriver.chromedriver\\107.0.5304.6200\\selenium.webdriver.chromedriver.107.0.5304.6200.nupkg.sha512"
+  ],
+  "logs": []
+}

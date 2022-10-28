@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BotWhatsapp/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.5.1",
+          "Selenium.WebDriver.ChromeDriver": "107.0.5304.6200"
+        },
+        "runtime": {
+          "BotWhatsapp.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.5.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/107.0.5304.6200": {}
+    }
+  },
+  "libraries": {
+    "BotWhatsapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ztu9Qv2n5/NkqPs0MQ3nojMJuW2PVHrAKDukmT77HbYAGhZI370Hp0EJNqyucJuud937Lr/qvXsoOtLZ18VFnw==",
+      "path": "selenium.webdriver/4.5.1",
+      "hashPath": "selenium.webdriver.4.5.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/107.0.5304.6200": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0xkXvzwRXVbduG62Z7+vhM4a85x3mWlfGUSQn+4PdeVJdkkssVe4rV80J+WBEOfUJAjga7L6YydFkbd9ONJqxQ==",
+      "path": "selenium.webdriver.chromedriver/107.0.5304.6200",
+      "hashPath": "selenium.webdriver.chromedriver.107.0.5304.6200.nupkg.sha512"
+    }
+  }
+}
